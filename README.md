@@ -1,4 +1,4 @@
-<h2> Hi, I'm Laura Zuluaga! 👋 </h2>
+<h2> Hi, I'm Laura Zuluaga! 👋👩‍💻 </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 [![](https://img.shields.io/badge/LinkedIn-lauraVZ-blue)](https://www.linkedin.com/in/laura-vanessa-zuluaga-arango-69b942191/)
@@ -14,6 +14,7 @@ const laura = {
   tools: [Vue, Nuxt, Git],
 }
 ```
-
+<h4 align="center">Profile stats</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LauraVZuluaga&count_private=true&show_icons=true&theme=jolly" alt="lauraVZ :: Profile Stats" /></p>
 
 ---
