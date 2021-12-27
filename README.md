@@ -1,3 +1,5 @@
+<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
+
 <h2> Hi, I'm Laura Zuluaga! 👋 </h2>
 
 [![](https://img.shields.io/badge/LinkedIn-lauraVZ-blue)](https://www.linkedin.com/in/laura-vanessa-zuluaga-arango-69b942191/)
@@ -13,7 +15,6 @@ const laura = {
   tools: [Vue, Nuxt, Git],
 }
 ```
-
 
 
 ---
