@@ -9,9 +9,10 @@
 
 ```javascript
 const laura = {
-  pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, SCSS],
   tools: [Vue, Nuxt, Git],
+  Learning: [Electron, React], 
+  Loving: [Family, Read, Dance, Code]
 }
 ```
 <h4 align="center">Profile stats</h4>
