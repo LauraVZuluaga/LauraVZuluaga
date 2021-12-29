@@ -11,7 +11,7 @@
 const laura = {
   code: [Javascript, HTML, CSS, SCSS],
   tools: [Vue, Vuex, Git],
-  Learning: [Electron, React, , Nuxt], 
+  Learning: [Electron, Nuxt], 
   Loving: [Family, Read, Dance, Code]
 }
 ```
