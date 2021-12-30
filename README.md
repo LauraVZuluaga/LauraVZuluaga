@@ -11,8 +11,8 @@
 const laura = {
   code: [Javascript, HTML, CSS, SCSS],
   tools: [Vue, Vuex, Git],
-  Learning: [Jest, Nuxt, Tailwind], 
-  Loving: [Family, Read, Dance, Code]
+  learning: [Jest, Nuxt, Tailwind], 
+  loving: [Family, Read, Dance, Code]
 }
 ```
 <h4 align="center">Profile stats</h4>
