@@ -10,12 +10,9 @@
 ```javascript
 const laura = {
   code: [Javascript, HTML, CSS, SCSS],
-  tools: [Vue, Vuex, Git],
+  tools: [Vue, Vuex, Git, React],
   learning: [Jest, Nuxt, Tailwind], 
   loving: [Family, Read, Dance, Code]
 }
 ```
-<h4 align="center">Profile stats</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LauraVZuluaga&count_private=true&show_icons=true&theme=jolly" alt="lauraVZ :: Profile Stats" /></p>
-
 ---
