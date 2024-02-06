@@ -10,8 +10,8 @@
 ```javascript
 const laura = {
   code: [Javascript, HTML, CSS, SCSS],
-  tools: [Vue, Vuex, Git, React],
-  learning: [Jest, Nuxt, Tailwind], 
+  tools: [Vue, Vuex, Git, React, Tailwind],
+  learning: [Jest, Nuxt], 
   loving: [Family, Read, Dance, Code]
 }
 ```
