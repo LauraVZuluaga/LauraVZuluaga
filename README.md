@@ -9,5 +9,5 @@
 <h3 align="center">Languages and Tools:</h3>
 <section align="center">
   
-![My Skills](https://skillicons.dev/icons?i=js,vue,pinia,tailwindcss,react,sass,astro,vite,aws,figma)
+![My Skills](https://skillicons.dev/icons?i=js,vue,pinia,tailwindcss,react,sass,astro,vite,aws,figma,angular)
 </section>
