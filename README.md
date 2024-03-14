@@ -1,18 +1,11 @@
-<h2> Hi, I'm Laura Zuluaga! 👋👩‍💻 </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2 align="center"> Hi, I'm Laura Zuluaga! 👋👩‍💻 </h2>
+<h3 align="center">🖥 😊 Frontend developer, tireless creative ⚡❤️</h3>
 
-[![](https://img.shields.io/badge/LinkedIn-lauraVZ-blue)](https://www.linkedin.com/in/laura-vanessa-zuluaga-arango-69b942191/)
-[![](https://img.shields.io/badge/Gmail-l.vanesa.13@gmail.com-red)](mailto:l.vanesa.13@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<section align="left">
+<a href="https://www.linkedin.com/in/laura-vanessa-zuluaga-arango-69b942191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/judare/](https://www.linkedin.com/in/laura-vanessa-zuluaga-arango-69b942191)" height="30" width="40" /></a>
+</section> 
 
+<h3 align="left">Languages and Tools:</h3>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const laura = {
-  code: [Javascript, HTML, CSS, SCSS],
-  tools: [Vue, Vuex, Git, React, Tailwind],
-  learning: [Jest, Nuxt], 
-  loving: [Family, Read, Dance, Code]
-}
-```
----
+![My Skills](https://skillicons.dev/icons?i=js,vue,pinia,tailwindcss,react,sass,astro,vite,aws,figma)
